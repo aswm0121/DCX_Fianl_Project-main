@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "project-db-campus.smhrd.com",
+            "port": 3312,
+            "driver": "MySQL",
+            "name": "PINY",
+            "database": "seocho_22K_DCX_final_1",
+            "username": "seocho_22K_DCX_final_1",
+            "password": "smhrd1"
+        }
+    ]
+}
